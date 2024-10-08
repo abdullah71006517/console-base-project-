@@ -1,6 +1,4 @@
 
-Here's a sample GitHub repository description that you can use to present your project related to your recent completion of a Data Structures course. Feel free to modify it to fit your specific project details:
-
 Project Title: Inventory Management System
 Description
 This repository contains an Inventory Management System implemented in C, aimed at demonstrating the practical application of data structures and algorithms learned during my recent Data Structures course. The project focuses on the efficient management of products within an inventory, allowing users to add, update, remove, search, and display products. It also includes functionalities for processing orders and generating reports on inventory status.
